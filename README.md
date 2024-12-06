@@ -2,7 +2,7 @@
 
 ## Bienvenido a mi Portafolio en Inova
 
-Este repositorio contiene mi trabajo como desarrollador front-end en Inova, mostrando el informe de ejecución mensual de la Oficina Unidad Estratégica de Negocios ITM. Aquí encontrarás la documentación relacionada con el informe mensual, contratista, contrato, y ejecución de obligaciones.
+Este repositorio contiene mi trabajo como desarrollador front-end en Inova, mostrando el informe de ejecución mensual de la Oficina Unidad Estratégica de Negocios ITM realizado para la Alcaldía de Medellín en colaboración con Inova. Aquí encontrarás la documentación relacionada con el informe mensual, contratista, contrato, y ejecución de obligaciones.
 
 ### Acerca de Mí
 Soy un desarrollador front-end con experiencia en la creación de interfaces de usuario atractivas y funcionales. En mi trabajo con Inova, he aplicado mis habilidades para desarrollar documentos detallados y efectivos.
@@ -14,7 +14,7 @@ Soy un desarrollador front-end con experiencia en la creación de interfaces de 
   - **Experiencia**: Creación de interfaces de usuario, optimización de rendimiento y accesibilidad
 
 ### Proyectos Destacados
-- **Informe de Ejecución Mensual para ITM e Inova**
+- **Informe de Ejecución Mensual para la Alcaldía de Medellín y Inova**
   - **Descripción**: Desarrollo de un documento detallado para el informe de ejecución mensual de la Oficina Unidad Estratégica de Negocios ITM, incluyendo detalles del informe mensual, contratista, contrato, y ejecución de obligaciones.
   - **Idiomas Disponibles**: Español.
   - **Contenido del Informe**:
